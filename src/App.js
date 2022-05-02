@@ -1,9 +1,10 @@
 import './App.css';
+import Table from './Table';
 
 function App() {
   return (
     <div className="App">
-      <h2>axios in react</h2>
+      <Table />
     </div>
   );
 }
